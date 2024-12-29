@@ -1,0 +1,34 @@
+Spring Framework 6 & Spring Boot 3 desde cero a experto
+Andrés Guzman
+
+Fecha de inicio: domingo 29 de diciembre 2024
+
+Inyección de dependencias(Factura): Creando nuevo proyecto
+
+Creando nuevo proyecto
+04:35
+Factura y relaciones entre sus componentes
+07:48
+PropertySource inyectando valores con @Value
+04:12
+Registrando componente Items de la Factura
+08:26
+Creando el controlador InvoiceController
+06:14
+Calculando total de la Factura
+07:42
+Registrando otras lineas para la factura
+11:38
+Ciclo de vida del componente PostConstruct
+07:41
+Ciclo de vida del componente PreDestroy
+04:16
+Contextos (Scope) de los componentes
+12:43
+Contextos (Scope) de los componentes parte 2
+08:19
+Descargar Código Fuente
+00:03
+
+
+Fecha de fin:
