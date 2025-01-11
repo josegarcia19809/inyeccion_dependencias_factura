@@ -3,12 +3,8 @@ Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
 
-Inyección de dependencias(Factura): Creando el controlador InvoiceController
+Inyección de dependencias(Factura): Calculando total de la Factura
 
-
-06:14
-Calculando total de la Factura
-07:42
 Registrando otras lineas para la factura
 11:38
 Ciclo de vida del componente PostConstruct
