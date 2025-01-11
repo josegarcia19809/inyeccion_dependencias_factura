@@ -3,13 +3,8 @@ Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
 
-Inyección de dependencias(Factura): PropertySource inyectando valores con @Value
+Inyección de dependencias(Factura): Registrando componente Items de la Factura
 
-
-
-04:12
-Registrando componente Items de la Factura
-08:26
 Creando el controlador InvoiceController
 06:14
 Calculando total de la Factura
