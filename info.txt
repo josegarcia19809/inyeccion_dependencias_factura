@@ -3,16 +3,11 @@ Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
 
-Inyección de dependencias(Factura): Ciclo de vida del componente PostConstruct
+Inyección de dependencias(Factura): Ciclo de vida del componente PreDestroy
 
-Ciclo de vida del componente PreDestroy
-04:16
 Contextos (Scope) de los componentes
 12:43
 Contextos (Scope) de los componentes parte 2
 08:19
-Descargar Código Fuente
-00:03
-
 
 Fecha de fin:

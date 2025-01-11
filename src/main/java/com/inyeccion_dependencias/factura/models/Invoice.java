@@ -1,6 +1,7 @@
 package com.inyeccion_dependencias.factura.models;
 
 import jakarta.annotation.PostConstruct;
+import jakarta.annotation.PreDestroy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
@@ -25,6 +26,11 @@ public class Invoice {
         System.out.println("Creando el componente de la factura");
         setDescription(getDescription().concat(" comprado por ".
                 concat(client.getName()).concat(" " + client.getLastname())));
+    }
+
+    @PreDestroy
+    public void destroy() {
+        System.out.println("Desactivando el componente de la factura");
     }
 
     public Client getClient() {
