@@ -1,5 +1,6 @@
 package com.inyeccion_dependencias.factura.models;
 
+import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
@@ -18,6 +19,13 @@ public class Invoice {
     @Autowired
     //@Qualifier("itemsInvoiceOffice")
     private List<Item> items;
+
+    @PostConstruct
+    public void init() {
+        System.out.println("Creando el componente de la factura");
+        setDescription(getDescription().concat(" comprado por ".
+                concat(client.getName()).concat(" " + client.getLastname())));
+    }
 
     public Client getClient() {
         return client;
