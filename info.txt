@@ -3,9 +3,9 @@ Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
 
-Inyección de dependencias(Factura): Calculando total de la Factura
+Inyección de dependencias(Factura): Registrando otras lineas para la factura
 
-Registrando otras lineas para la factura
+
 11:38
 Ciclo de vida del componente PostConstruct
 07:41
