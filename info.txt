@@ -3,9 +3,9 @@ Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
 
-Inyección de dependencias(Factura): Registrando componente Items de la Factura
+Inyección de dependencias(Factura): Creando el controlador InvoiceController
 
-Creando el controlador InvoiceController
+
 06:14
 Calculando total de la Factura
 07:42
