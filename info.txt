@@ -3,12 +3,9 @@ Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
 
-Inyección de dependencias(Factura): Creando nuevo proyecto
+Inyección de dependencias(Factura): Factura y relaciones entre sus componentes
 
-Creando nuevo proyecto
-04:35
-Factura y relaciones entre sus componentes
-07:48
+
 PropertySource inyectando valores con @Value
 04:12
 Registrando componente Items de la Factura
