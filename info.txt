@@ -2,10 +2,4 @@ Spring Framework 6 & Spring Boot 3 desde cero a experto
 Andrés Guzman
 
 Fecha de inicio: domingo 29 de diciembre 2024
-
-Inyección de dependencias(Factura): Contextos (Scope) de los componentes
-
-Contextos (Scope) de los componentes parte 2
-08:19
-
-Fecha de fin:
+Fecha de fin: domingo 12 de enero de 2025
